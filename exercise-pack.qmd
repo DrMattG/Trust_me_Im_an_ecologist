@@ -5,6 +5,7 @@ author: "Matthew Grainger"
 format:
   html:
     toc: true
+    embed-resources: true
     theme: cosmo
   pdf:
     documentclass: article
@@ -14,6 +15,10 @@ format:
 # How to use this pack
 
 Work from the information provided. Record both your judgement and the evidence supporting it. “Not reported” is a legitimate answer: do not assume that an unreported safeguard was either present or absent.
+
+::: {.callout-note collapse="true" appearance="simple"
+title="Exercise 1: Which study do you trust?"}
+
 
 # Exercise 1: Which study do you trust?
 
@@ -43,6 +48,12 @@ Twenty access points were randomly assigned to receive either standard signs or 
 2. Identify the most consequential limitation of each.
 3. Decide whether a larger sample would solve that limitation.
 4. State the target effect or inference you believe each study estimates.
+
+:::
+
+::: {.callout-note collapse="true" appearance="simple"
+title="Exercise 2: Luquillo rainforest"}
+
 
 # Exercise 2: Luquillo rainforest
 
@@ -77,6 +88,11 @@ Write a conclusion containing:
 
 > The evidence suggests **[what]**, in **[which context]**. Our confidence is **[level]** because **[reason]**. The conclusion is most sensitive to **[limitation]**.
 
+:::
+
+::: {.callout-note collapse="true" appearance="simple"
+title="Exercise 3: Worldwide insect decline"}
+
 # Exercise 3: Worldwide insect decline
 
 ## Initial evidence
@@ -101,7 +117,12 @@ Discuss:
 - Does criticism of the global estimate imply that insect declines are unimportant?
 - How should concern, uncertainty and evidence be communicated together?
 
-# Optional exercise: Historical bumblebee records
+:::
+
+::: {.callout-note collapse="true" appearance="simple"
+title="Exercise 4: Historical bumblebee records"}
+
+# Exercise 4: Historical bumblebee records
 
 Soroye et al. (2020) used historical occurrence data to estimate changes in bumblebee occurrence in Europe and North America and related these to climate conditions. Guzman et al. (2021) argued that features of the original framework could bias decline estimates and proposed an alternative analysis.
 
@@ -124,6 +145,8 @@ Adapted from Culina et al. (2026):
 5. Were observers or analysts blinded where feasible and consequential?
 
 Do not sum the answers into a score. Explain the bias mechanism, which result it could affect, its plausible direction where knowable, and how it changes the conclusion.
+
+:::
 
 # References
 
