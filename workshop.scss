@@ -1,0 +1,77 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Aptos", "Helvetica Neue", Arial, sans-serif;
+$presentation-heading-font: "Aptos Display", "Helvetica Neue", Arial, sans-serif;
+$presentation-heading-color: #17324d;
+$body-color: #1e2933;
+$link-color: #007f78;
+$presentation-font-size-root: 34px;
+$presentation-h1-font-size: 2.05em;
+$presentation-h2-font-size: 1.35em;
+$presentation-h3-font-size: 0.82em;
+$presentation-line-height: 1.28;
+
+/*-- scss:rules --*/
+
+:root {
+  --navy: #17324d;
+  --teal: #007f78;
+  --coral: #e05a47;
+  --sand: #f4efe5;
+  --pale: #eef5f3;
+  --ink: #1e2933;
+  --muted: #65737e;
+}
+
+.reveal .slides { text-align: left; }
+.reveal .slides section { padding-top: 0.25em; }
+.reveal h1, .reveal h2, .reveal h3 { text-transform: none; letter-spacing: -0.02em; }
+.reveal h2 { border-bottom: 4px solid var(--teal); padding-bottom: 0.18em; margin-bottom: 0.65em; }
+.reveal p, .reveal li { line-height: 1.34; }
+.reveal li { margin-bottom: 0.32em; }
+.reveal table { font-size: 0.72em; width: 100%; }
+.reveal table th { color: white; background: var(--navy); }
+.reveal table td, .reveal table th { padding: 0.38em 0.55em; border-bottom: 1px solid #ccd6dc; }
+.reveal blockquote { width: auto; box-shadow: none; border-left: 8px solid var(--coral); padding: 0.4em 0.7em; background: var(--sand); }
+.reveal .footer { color: #71808c; font-size: 0.42em; }
+.reveal .slide-number { color: var(--teal); font-size: 0.48em; }
+
+.title-slide { text-align: left !important; }
+.title-slide h1 { color: var(--navy); font-size: 2.3em; max-width: 1200px; margin-top: 0.18em; }
+.title-slide h2 { color: var(--teal); border: 0; font-size: 1.0em; font-weight: 500; }
+.eyebrow { color: var(--coral); font-weight: 800; letter-spacing: 0.14em; font-size: 0.52em; }
+
+.claim { font-size: 1.22em; font-weight: 650; color: var(--navy); padding: 0.55em 0.7em; margin: 0.55em 0; border-left: 10px solid var(--coral); background: var(--sand); }
+.claim.accent { background: var(--pale); border-left-color: var(--teal); }
+.callout { margin-top: 0.8em; padding: 0.5em 0.7em; background: var(--pale); border-top: 4px solid var(--teal); font-weight: 600; }
+.activity { color: white; background: var(--teal); padding: 0.55em 0.7em; margin-bottom: 0.75em; font-weight: 700; }
+.scenario { background: var(--sand); padding: 0.7em 0.9em; font-size: 1.12em; }
+.quote { font-size: 1.08em; background: var(--sand); padding: 0.65em 0.85em; border-left: 8px solid var(--coral); }
+.bottom-line { margin-top: 0.85em; color: var(--teal); font-size: 1.02em; font-weight: 750; }
+.big-question { color: var(--navy); font-size: 1.46em; font-weight: 720; line-height: 1.45; margin-top: 1em; }
+.muted { color: var(--muted); font-size: 0.82em; margin-top: 1.3em; }
+.arrow { font-size: 2.2em; color: var(--coral); text-align: center; padding-top: 0.8em; }
+
+.confidence-scale { display: flex; gap: 0; width: 100%; margin: 1.0em 0; }
+.confidence-scale span { flex: 1; padding: 0.62em 0.35em; text-align: center; font-size: 0.72em; font-weight: 700; border-right: 2px solid white; background: #dbece7; }
+.confidence-scale span:nth-child(2) { background: #e9e8c8; }
+.confidence-scale span:nth-child(3) { background: #f1d3b5; }
+.confidence-scale span:nth-child(4) { background: #efc3bb; }
+
+.evidence-row { display: flex; gap: 0.38em; justify-content: center; margin: 1.0em 0; }
+.evidence-row span { display: inline-flex; width: 1.8em; height: 1.8em; align-items: center; justify-content: center; border-radius: 50%; color: white; font-size: 1.15em; font-weight: 800; }
+.positive { background: var(--teal); }
+.null { background: #89959d; }
+.negative { background: var(--coral); }
+
+.decision-line { display: flex; align-items: center; justify-content: space-between; gap: 0.35em; color: var(--navy); background: var(--pale); padding: 0.8em; margin: 1.0em 0; font-weight: 720; font-size: 0.78em; }
+.decision-line span { color: var(--coral); font-size: 1.4em; }
+.conclusion-template { color: var(--navy); background: var(--sand); border-left: 10px solid var(--teal); padding: 0.9em 1.0em; font-size: 1.02em; line-height: 1.6; }
+.references { font-size: 0.65em; }
+.stat { color: var(--coral); font-size: 2.0em; font-weight: 850; line-height: 1; margin-bottom: 0.18em; }
+.process-line { display: flex; align-items: center; justify-content: space-between; gap: 0.35em; color: var(--navy); background: var(--pale); padding: 0.75em; margin: 0.8em 0; font-weight: 750; font-size: 0.82em; }
+.process-line span { color: var(--coral); font-size: 1.4em; }
+
+@media print {
+  .reveal .slides section { page-break-after: always; }
+}

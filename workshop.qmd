@@ -1,0 +1,1095 @@
+---
+title: "Trust Me, I’m an Ecologist?"
+subtitle: "Learning to better judge evidence"
+author: "Matthew Grainger"
+institute: "Norwegian Institute for Nature Research (NINA)"
+format:
+  revealjs:
+    theme: [default, workshop.scss]
+    slide-number: c/t
+    progress: true
+    controls: true
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.08
+    navigation-mode: linear
+    chalkboard: true
+    preview-links: auto
+    footer: "Trust Me, I’m an Ecologist?"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+::: notes
+Welcome participants. Do not start with definitions. Tell them the afternoon is about making defensible judgements, not catching researchers out.
+
+Timing: 2 minutes.
+:::
+
+## Does conservation work?
+
+::: {.claim}
+“In two-thirds of cases, conservation either improved the state of biodiversity or at least slowed declines.”
+:::
+
+::: {.columns}
+::: {.column width="25%"}
+<div class="stat">Science</div>
+
+published in 2024
+:::
+::: {.column width="25%"}
+<div class="stat">186</div>
+
+included studies
+:::
+::: {.column width="25%"}
+<div class="stat">665</div>
+
+intervention trials
+:::
+::: {.column width="25%"}
+<div class="stat">7</div>
+
+intervention types
+:::
+:::
+
+::: notes
+Introduce only the information visible here. The paper describes a global meta-analysis comparing temporal biodiversity outcomes under conservation action with counterfactual outcomes. Do not yet discuss selection, study validity or the meaning of a trial.
+
+[Sources]
+- Langhammer PF et al. 2024. The positive impact of conservation action. Science 384:453–458. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 3 minutes.
+:::
+
+---
+
+## How convincing is the conclusion?
+
+### Does this evidence show that conservation works?
+
+::: {.columns}
+::: {.column width="25%"}
+**A**  
+Very confident
+:::
+::: {.column width="25%"}
+**B**  
+Fairly confident
+:::
+::: {.column width="25%"}
+**C**  
+Uncertain
+:::
+::: {.column width="25%"}
+**D**  
+Not confident
+:::
+:::
+
+::: notes
+Ask for a show of hands or use coloured voting cards. Record the rough distribution, but do not discuss the study yet. Say: “Keep hold of that judgement—we will return to it.”
+
+Timing: 5 minutes.
+:::
+
+---
+
+## What else would you need to know?
+
+::: {.big-question}
+Before accepting—or rejecting—the conclusion, what information would most change your confidence?
+:::
+
+Write down one question, then compare it with the person beside you.
+
+::: notes
+Collect questions without answering them. Likely requests include the search and eligibility criteria, representativeness, publication processes, credibility of counterfactuals, primary-study risk of bias, independence of trials, outcome harmonisation and heterogeneity. Group responses under study validity, synthesis validity and generalisability.
+
+[Sources]
+- Langhammer et al. 2024. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## What initially influenced you?
+
+<div class="big-question">
+
+The journal?  
+The word “global”?  
+The number of studies?  
+The meta-analysis?  
+A conclusion you wanted to be true?
+
+</div>
+
+::: notes
+Take three or four responses. Surface the difference between reasons for trusting a source and evidence that directly supports the inference. Do not imply that prestige or scale are irrelevant; they are simply not substitutes for appraisal.
+
+Timing: 3 minutes.
+:::
+
+---
+
+## Today’s question is deliberately simple
+
+::: {.claim .accent}
+How much confidence should I place in this claim—and why?
+:::
+
+By the end, you should be able to:
+
+- distinguish an **interesting result** from **credible evidence**;
+- identify the largest threats to an ecological inference;
+- make a transparent, calibrated judgement;
+- say what additional evidence would most change your mind.
+
+::: notes
+Emphasise that this is not a comprehensive risk-of-bias course. It is a practical reasoning toolkit.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Evidence does not speak for itself
+
+::: {.columns}
+::: {.column width="47%"}
+### What we observe
+
+- measurements
+- estimated effects
+- patterns
+- uncertainty
+:::
+
+::: {.column width="6%"}
+<div class="arrow">→</div>
+:::
+
+::: {.column width="47%"}
+### What we conclude
+
+- what caused the pattern
+- where it applies
+- whether it matters
+- what should be done
+:::
+:::
+
+<div class="bottom-line">Critical appraisal examines the bridge between them.</div>
+
+::: notes
+Use an example from the room if possible. An effect estimate is not yet a causal or management conclusion.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Four different questions are often collapsed into one
+
+1. **Is the result precisely estimated?**
+2. **Is the comparison internally credible?**
+3. **Does it apply in this ecological context?**
+4. **Is it useful for this decision?**
+
+::: {.callout}
+A study can perform well on one question and poorly on another.
+:::
+
+::: notes
+Invite quick examples: a precise but confounded observational association; a rigorous mesocosm experiment with limited field transferability.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Ecology has a risk-of-bias problem
+
+::: {.columns}
+::: {.column width="33%"}
+<div class="stat">12%</div>
+
+correctly interpreted risk of bias
+:::
+::: {.column width="33%"}
+<div class="stat">4%</div>
+
+had actually used a risk-of-bias tool
+:::
+::: {.column width="33%"}
+<div class="stat">5</div>
+
+of 209 relevant journal policies explicitly referred to methodological standards including RoB or critical appraisal
+:::
+:::
+
+<div class="bottom-line">Risk of bias is central to inference—but remains peripheral in ecological practice.</div>
+
+::: notes
+These results come from 232 ecologists and evolutionary biologists with evidence-synthesis experience, alongside an assessment of 275 journal policies. Explain that many respondents confused risk of bias with publication bias.
+
+[Sources]
+- Culina A, Grainger MJ, O'Dea RE, Pescott OL, Sánchez-Tójar A. 2026. Elevating the importance of Risk of Bias assessment for ecology and evolutionary biology. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.70356
+[/Sources]
+
+Timing: 6 minutes.
+:::
+
+---
+
+## Risk of bias is not a synonym for “study quality”
+
+::: {.columns}
+::: {.column width="48%"}
+### Risk of bias
+
+Could systematic error make the expected estimate differ from the study’s target effect?
+:::
+::: {.column width="48%"}
+### Other important attributes
+
+Precision, reporting, reproducibility, relevance and external validity.
+:::
+:::
+
+::: {.callout}
+All matter—but combining them in a single score hides how each problem changes the inference.
+:::
+
+::: notes
+Use the contrast between internal and external validity. A small sample may be imprecise without being systematically biased; poor reporting can make bias impossible to judge without proving that bias occurred.
+
+[Sources]
+- Culina et al. 2026. https://doi.org/10.1111/2041-210X.70356
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Five questions reveal most of the structure
+
+| | Ask |
+|---|---|
+| **Randomisation** | Were experimental units assigned randomly? |
+| **Selection** | Could inclusion in the sample depend on relevant characteristics? |
+| **Confounding** | Could a common cause explain both exposure and outcome? |
+| **Measurement** | Were outcomes obtained comparably across groups? |
+| **Blinding** | Could knowledge of allocation influence observation or analysis? |
+
+::: notes
+These are the five introductory questions synthesised in Culina et al. They help readers begin an appraisal; they are not a universal replacement for design-specific tools. Tell participants explicitly not to add up ticks.
+
+[Sources]
+- Culina et al. 2026. Section 4.2. https://doi.org/10.1111/2041-210X.70356
+[/Sources]
+
+Timing: 7 minutes.
+:::
+
+---
+
+## A signalling question informs—but does not replace—judgement
+
+::: {.process-line}
+Question <span>→</span> Evidence <span>→</span> Bias mechanism <span>→</span> Judgement
+:::
+
+> Allocation was not random. Baseline habitat quality affected both treatment placement and breeding success. The comparison is therefore vulnerable to confounding that may exaggerate the benefit.
+
+::: notes
+Distinguish a factual response from the judgement it informs. The reasoned statement is the useful output—not a coloured cell on its own.
+
+[Sources]
+- Boyd et al. 2022. https://doi.org/10.1111/2041-210X.13857
+- Culina et al. 2026. https://doi.org/10.1111/2041-210X.70356
+[/Sources]
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Appraisal is a judgement, not a score
+
+::: {.confidence-scale}
+<span>Higher confidence</span>
+<span>Some concerns</span>
+<span>Low confidence</span>
+<span>Cannot determine</span>
+:::
+
+For every judgement, record:
+
+1. the evidence that supports it;
+2. the limitation that matters most;
+3. the likely direction of distortion—if knowable.
+
+::: notes
+Stress that “not reported” is different from “not done”, but both limit what a reader can conclude. Avoid false precision from summed quality scores.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Exercise 1 · Which study do you trust?
+
+::: {.activity}
+In groups, rank four studies addressing the same ecological question.
+:::
+
+For each study:
+
+1. What can it legitimately tell us?
+2. What is its most serious limitation?
+3. Would a larger sample solve that problem?
+4. What information is missing?
+
+**You have 12 minutes. Be ready to defend—not merely report—your ranking.**
+
+::: notes
+Distribute Exercise 1 cards. Use groups of about five. Ask each group to choose a reporter.
+
+Timing: 12 minutes activity + 8 minutes debrief.
+:::
+
+---
+
+## The question
+
+::: {.claim}
+Does restricting visitor access improve breeding success in ground-nesting birds?
+:::
+
+<div class="muted">All four studies report higher breeding success where disturbance was lower.</div>
+
+::: notes
+This remains on screen while groups work if the printed cards contain the study details.
+:::
+
+---
+
+## A useful ranking needs a reason
+
+Do not ask only:
+
+> Which study sits highest in a hierarchy?
+
+Also ask:
+
+- Which bias is plausible here?
+- Which estimate could it distort?
+- In what direction?
+- Would it change the decision?
+
+::: notes
+During debrief, expect reasonable disagreement. Reward explicit reasoning. A large observational study may be more applicable but less causally secure than a smaller controlled intervention.
+:::
+
+---
+
+## More observations do not repair the wrong comparison
+
+::: {.columns}
+::: {.column width="48%"}
+### Precision
+
+More independent information can reduce sampling uncertainty.
+:::
+
+::: {.column width="48%"}
+### Bias
+
+More measurements can estimate a biased contrast with exquisite precision.
+:::
+:::
+
+::: {.claim .accent}
+Large *n* answers “how precisely?”—not automatically “how credibly?”
+:::
+
+::: notes
+Transition from Exercise 1. Use an example in which accessible sites systematically differ from restricted sites.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Count the units that could have differed
+
+::: {.scenario}
+One grazed field and one ungrazed field.  
+Twenty quadrats are sampled in each field.
+:::
+
+### How many independent replicates of grazing are there?
+
+::: {.fragment}
+**One field per condition—not twenty.**
+:::
+
+::: notes
+Ask first. Then reveal. Explain treatment replication versus measurement replication. Avoid saying subsamples are useless; they characterise within-unit variation but do not create treatment-level replication.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## The design determines what is exchangeable
+
+::: {.columns}
+::: {.column width="50%"}
+### Units assigned or exposed
+
+Fields, lakes, populations, years, transects—or individuals?
+:::
+
+::: {.column width="50%"}
+### Units measured
+
+Quadrats, samples, observations, pixels—or repeated visits?
+:::
+:::
+
+<div class="bottom-line">The analysis must respect how variation entered the study.</div>
+
+::: notes
+This is a conceptual slide, not a technical mixed-model lesson. Mention clustering and repeated measurements only briefly.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Exercise 2 · A rainforest food web is collapsing
+
+::: {.quote}
+Arthropod abundance declined dramatically between historical and contemporary samples in Puerto Rico’s Luquillo rainforest; warming was proposed as the major driver, with consequences for insectivores.
+:::
+
+Using the paper extract:
+
+1. Separate the **trend claim** from the **causal claim**.
+2. Define the population in space, time and taxa.
+3. Identify the most serious potential bias.
+4. State what the data can—and cannot—support.
+
+**You have 12 minutes.**
+
+::: notes
+Use the Lister and Garcia exercise sheet. Do not distribute the Willig et al. response yet. Ask groups to focus on one bias mechanism rather than producing a long list of limitations.
+
+[Sources]
+- Lister BC, Garcia A. 2018. Climate-driven declines in arthropod abundance restructure a rainforest food web. PNAS 115:E10397–E10406. https://doi.org/10.1073/pnas.1722477115
+[/Sources]
+
+Timing: 12 minutes activity + 10 minutes reveal/debrief.
+:::
+
+---
+
+## ROBITT begins before examining the dataset
+
+::: {.claim .accent}
+What exactly is the inferential goal—and what is the corresponding statistical target population?
+:::
+
+For temporal trends, define the relevant axes:
+
+- **space**;
+- **time**;
+- **taxonomy**;
+- **environment**, where relevant.
+
+::: notes
+ROBITT contains 17 signalling questions. Its distinctive first move is to require a defined target population before asking whether the sample represents it.
+
+[Sources]
+- Boyd RJ et al. 2022. ROBITT: A tool for assessing the risk-of-bias in studies of temporal trends in ecology. Methods in Ecology and Evolution 13:1497–1507. https://doi.org/10.1111/2041-210X.13857
+[/Sources]
+:::
+
+---
+
+## More biodiversity records do not guarantee better inference
+
+Opportunistic records may change through time in:
+
+- where observers visit;
+- which taxa attract attention;
+- survey effort and technology;
+- detection and reporting;
+- the combination of datasets and protocols.
+
+<div class="bottom-line">Time can become confounded with the way observations entered the dataset.</div>
+
+::: notes
+Explain that a huge non-probability sample can still be systematically unrepresentative. This is particularly important for aggregated occurrence data.
+
+[Sources]
+- Boyd et al. 2022. https://doi.org/10.1111/2041-210X.13857
+[/Sources]
+:::
+
+---
+
+## Reveal · Another team reached a different judgement
+
+Willig et al. questioned:
+
+- comparability and construction of the temperature record;
+- adjustment for variation in sampling effort;
+- omission of some available pre-hurricane data;
+- hurricanes and secondary succession as competing explanations;
+- extrapolation from selected series to food-web collapse.
+
+::: {.claim}
+Which concerns match your appraisal—and which actually threaten the stated inference?
+:::
+
+::: notes
+Distribute the short Willig et al. response. Do not present it as the answer key. It is another evidence-based argument that must itself be appraised.
+
+[Sources]
+- Willig MR et al. 2019. Populations are not declining and food webs are not collapsing at the Luquillo Experimental Forest. PNAS 116:12143–12144. https://doi.org/10.1073/pnas.1820456116
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## The response is not the final word
+
+Lister and Garcia replied that their conclusions were supported by consistent patterns across datasets and challenged aspects of the reanalysis.
+
+Discuss:
+
+- What evidence would discriminate between the explanations?
+- Does disagreement concern the trend, its cause, its generality—or all three?
+- What conclusion remains defensible despite the dispute?
+
+::: notes
+The learning objective is calibrated judgement, not declaring a winner.
+
+[Sources]
+- Lister BC, Garcia A. 2019. Reply to Willig et al.: Long-term population trends in the Luquillo rainforest. PNAS 116:12145–12146. https://doi.org/10.1073/pnas.1904582116
+[/Sources]
+
+Timing: 6 minutes.
+:::
+
+---
+
+## Association can still be valuable
+
+Observational evidence can:
+
+- reveal patterns at realistic scales;
+- include exposures that cannot be assigned;
+- test predictions across contexts;
+- narrow competing explanations;
+- complement experiments, models and natural experiments.
+
+::: {.callout}
+The question is not “experiment or useless?” It is “which explanations remain plausible?”
+:::
+
+::: notes
+Prevent the session becoming a simplistic hierarchy of evidence. Ecological inference often depends on triangulation.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Break
+
+<div class="big-question">Ten minutes</div>
+
+When we return: what happens when **every study is imperfect—and they disagree?**
+
+::: notes
+Aim to restart at 14:35. Put the next exercise cards on tables during the break.
+:::
+
+---
+
+## A body of evidence has its own failure modes
+
+Even if each result is calculated correctly:
+
+- studies may ask different questions;
+- outcomes may be measured differently;
+- several papers may reuse the same data;
+- missing studies and outcomes may favour a story;
+- synthesis may ignore precision or study validity.
+
+::: notes
+Transition from study-level appraisal to synthesis-level appraisal.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Eight studies, one tempting conclusion
+
+::: {.evidence-row}
+<span class="positive">+</span>
+<span class="positive">+</span>
+<span class="positive">+</span>
+<span class="positive">+</span>
+<span class="positive">+</span>
+<span class="null">0</span>
+<span class="null">0</span>
+<span class="negative">−</span>
+:::
+
+### “Five of eight studies found a positive effect.”
+
+::: {.fragment .claim}
+What have we not been told?
+:::
+
+::: notes
+Gather answers: magnitude, uncertainty, study size, design, independence, outcome definitions, selective reporting, context.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Significance is not a unit of evidence
+
+Two studies can estimate the same effect but produce different *p*-values.
+
+Two studies can produce the same *p*-value but estimate very different effects.
+
+::: {.claim .accent}
+Counting “positive” and “negative” studies discards magnitude, precision and comparability.
+:::
+
+::: notes
+Explain this without equations unless the audience asks. Distinguish effect-direction vote counting from a structured synthesis of effect estimates.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Exercise 3 · Can this review estimate global insect decline?
+
+Sánchez-Bayo and Wyckhuys synthesised reports of insect decline and proposed widely cited global conclusions.
+
+Produce:
+
+1. the question its search could answer;
+2. ways search and inclusion could select on the result;
+3. a comparison between the evidence and the implied global target population;
+4. a conclusion that matches the evidence.
+
+::: {.activity}
+You have 16 minutes. Separate concern for insects from confidence in this particular estimate.
+:::
+
+::: notes
+Distribute the review exercise sheet. Then reveal the summaries of published responses. The point is selection and generalisation, not recalculating the review.
+
+[Sources]
+- Sánchez-Bayo F, Wyckhuys KAG. 2019. Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation 232:8–27. https://doi.org/10.1016/j.biocon.2019.01.020
+- Simmons BI et al. 2019. Worldwide insect declines: An important message, but interpret with caution. Ecology and Evolution 9:3678–3680. https://doi.org/10.1002/ece3.5153
+- Montgomery GA et al. 2020. Is the insect apocalypse upon us? How to find out. Biological Conservation 241:108327. https://doi.org/10.1016/j.biocon.2019.108327
+[/Sources]
+
+Timing: 16 minutes activity + 10 minutes debrief.
+:::
+
+---
+
+## Selection can happen before the analysis begins
+
+If a review searches principally for documented **declines**, it can describe reported declines—but cannot estimate the prevalence of decline without an appropriate denominator.
+
+::: {.columns}
+::: {.column width="50%"}
+### Defensible
+
+What patterns and drivers are reported among selected decline studies?
+:::
+::: {.column width="50%"}
+### Not identified
+
+What proportion of all insect populations worldwide is declining?
+:::
+:::
+
+::: notes
+This is selection on the outcome. Ask whether a transparent search can nevertheless be systematically unsuitable for the broader inference.
+
+[Sources]
+- Sánchez-Bayo & Wyckhuys 2019. https://doi.org/10.1016/j.biocon.2019.01.020
+- Simmons et al. 2019. https://doi.org/10.1002/ece3.5153
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Optional advanced case · Historical bumblebee records
+
+Soroye et al. used historical occurrence data to estimate bumblebee change across Europe and North America. Guzman et al. subsequently argued that the framework could yield biased estimates and proposed an alternative.
+
+Apply ROBITT:
+
+- What is the target population?
+- Which sampling processes changed through time?
+- What does a non-detection mean in historical records?
+- Which assumptions connect occurrence records to decline?
+
+::: notes
+Use this for faster or more quantitative groups, or retain it as a backup. The original authors also published a reply; this is another scientific disagreement, not a solved classroom puzzle.
+
+[Sources]
+- Soroye P, Newbold T, Kerr J. 2020. Climate change contributes to widespread declines among bumble bees across continents. Science 367:685–688. https://doi.org/10.1126/science.aax8591
+- Guzman LM et al. 2021. Using historical data to estimate bumble bee occurrence. Biological Conservation 257:109180. https://doi.org/10.1016/j.biocon.2021.109180
+[/Sources]
+:::
+
+---
+
+## Heterogeneity is information—not merely noise
+
+When effects differ, ask whether variation follows:
+
+- species or functional group;
+- intervention intensity;
+- baseline condition;
+- climate or landscape context;
+- follow-up duration;
+- study design or risk of bias.
+
+<div class="bottom-line">“Does it work?” may be the wrong question. Try “when, where and for whom?”</div>
+
+::: notes
+Connect responses from Exercise 3 to ecological context dependence. Avoid suggesting that every post-hoc subgroup explanation is credible.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Do not explain every pattern after seeing it
+
+::: {.columns}
+::: {.column width="48%"}
+### More credible
+
+- specified before analysis
+- supported by mechanism
+- replicated across studies
+- distinguishes competing predictions
+:::
+
+::: {.column width="48%"}
+### Less credible
+
+- selected because it “worked”
+- many moderators tested
+- few studies per comparison
+- story changes with the model
+:::
+:::
+
+::: notes
+Introduce researcher degrees of freedom and over-interpretation of subgroup/meta-regression patterns.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Absence of evidence has several meanings
+
+::: {.columns}
+::: {.column width="33%"}
+### No studies
+
+We do not know because the question has not been studied.
+:::
+::: {.column width="33%"}
+### Imprecise evidence
+
+Existing studies cannot distinguish important benefit from harm.
+:::
+::: {.column width="33%"}
+### Evidence of little effect
+
+Precise estimates exclude effects large enough to matter.
+:::
+:::
+
+::: notes
+Ask participants which of these is most often described as “no effect”. Reinforce that null statistical significance does not identify the third case.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Decisions require more than an effect estimate
+
+::: {.decision-line}
+Credibility <span>+</span> Applicability <span>+</span> Benefits and harms <span>+</span> Costs <span>+</span> Values
+:::
+
+::: {.claim}
+Low confidence does not automatically mean “do nothing”. It means uncertainty must be carried into the decision.
+:::
+
+::: notes
+Distinguish a scientific conclusion from a management recommendation. Mention reversibility, monitoring, opportunity costs and precaution as examples of decision considerations.
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Exercise 4 · The evidence tribunal
+
+::: {.columns}
+::: {.column width="33%"}
+### Claimant
+
+Make the strongest defensible case that the intervention works.
+:::
+::: {.column width="33%"}
+### Sceptic
+
+Identify the weakness most likely to change the conclusion.
+:::
+::: {.column width="33%"}
+### Decision-maker
+
+Decide what action is justified—and under what conditions.
+:::
+:::
+
+**Reporter:** capture the judgement, reasoning and unresolved uncertainty.
+
+::: notes
+Use the evidence from Exercise 3. Assign roles within each group. Give 8 minutes for deliberation and 7 minutes for reports from selected groups.
+
+Timing: 15 minutes.
+:::
+
+---
+
+## A defensible conclusion has four parts
+
+::: {.conclusion-template}
+The evidence suggests **[what]**, in **[which contexts]**.  
+Our confidence is **[level]** because **[reason]**.  
+The conclusion is most sensitive to **[limitation or missing evidence]**.  
+For this decision, we would **[act / monitor / test / wait]** because **[trade-off]**.
+:::
+
+::: notes
+Give groups this structure before their reports. Point out that cautious language alone is not transparent unless the reasons are specified.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Return to Langhammer et al.
+
+### How were the 665 trials classified?
+
+| Outcome relative to the counterfactual | Trials |
+|---|---:|
+| Biodiversity improved under conservation | **45.4%** |
+| Biodiversity declined more slowly | **20.6%** |
+| Biodiversity declined more under intervention | **20.6%** |
+| Biodiversity improved more under the counterfactual | **11.6%** |
+| No difference | **1.8%** |
+
+::: {.claim}
+Is “two-thirds of trials” an effect estimate, a vote count—or a descriptive classification?
+:::
+
+::: notes
+The first two categories sum to 66%. Ask what information the classification discards: magnitude, precision, study validity, context and dependence. Do not imply that the paper relied only on this classification; it also reported a quantitative meta-analysis.
+
+[Sources]
+- Langhammer et al. 2024. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 6 minutes.
+:::
+
+---
+
+## Which conservation evidence entered the synthesis?
+
+- A **Rapid Evidence Assessment** retrieved 1,445 English-language publications.
+- Only 186 supplied temporal intervention–counterfactual comparisons that could be converted to the chosen effect size.
+- **95 of 186 studies** came from Western Europe, North America, Australia and New Zealand.
+- Protected areas and invasive/problematic species control contributed **63%** of the included studies.
+- Multiple metrics or species from one study could contribute separate trials, modelled as nested within studies.
+- [Also the reported Hedges g is implausible]
+
+::: notes
+Ask which statements bear on internal validity, external validity, precision or synthesis-level selection. The authors conducted sensitivity analyses for nesting and a supplemental search. Avoid calling the 665 trials simple pseudoreplication.
+
+[Sources]
+- Langhammer et al. 2024. Main text and supplementary methods. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 6 minutes.
+:::
+
+---
+
+## The evidence is useful—but the target matters
+
+::: {.columns}
+::: {.column width="48%"}
+### More defensible
+
+Among eligible, evaluated interventions, conservation often produced better biodiversity trajectories than the selected counterfactuals.
+:::
+::: {.column width="48%"}
+### Not directly estimated
+
+Conservation actions generally have a two-thirds probability of succeeding across actions, places, organisms and circumstances.
+:::
+:::
+
+<div class="bottom-line">The synthesis estimates outcomes in the available evaluated comparisons—not every possible conservation action.</div>
+
+::: notes
+This is the key generalisability and estimand point. The paper provides substantive evidence of beneficial action; the critique concerns the breadth and interpretation of the headline claim, not whether conservation can work.
+
+[Sources]
+- Langhammer et al. 2024. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Vote again
+
+### How confident are you that the study shows “conservation works”?
+
+::: {.confidence-scale}
+<span>Very confident</span>
+<span>Fairly confident</span>
+<span>Uncertain</span>
+<span>Not confident</span>
+:::
+
+::: {.fragment .bottom-line}
+Changing your mind when the evidential basis changes is good scientific judgement.
+:::
+
+::: notes
+Repeat the vote. Ask people who moved in either direction what information changed their judgement. Distinguish confidence that conservation can be beneficial, confidence in the average result among included comparisons, and the probability that a new action will succeed.
+
+[Sources]
+- Langhammer et al. 2024. https://doi.org/10.1126/science.adj6598
+[/Sources]
+
+Timing: 5 minutes.
+:::
+
+---
+
+## Before trusting a claim, pause
+
+::: {.claim .accent}
+Compared with what?
+:::
+
+::: {.claim .accent}
+What else could produce this pattern?
+:::
+
+::: {.claim .accent}
+What is genuinely replicated?
+:::
+
+::: {.claim .accent}
+What is missing—and could it change the story?
+:::
+
+::: notes
+These are the four questions to remember if CLAIM itself is forgotten.
+
+Timing: 3 minutes.
+:::
+
+---
+
+## One question to take with you
+
+::: {.big-question}
+The next time I encounter a confident ecological claim, I will ask…
+:::
+
+Write your question down. Then share it with the person beside you.
+
+::: notes
+Allow one minute to write and one minute to share. Invite two examples. Close by thanking participants for making their reasoning visible.
+
+Timing: 4 minutes.
+:::
+
+---
+
+## Further reading
+
+<div class="references">
+
+- Culina A et al. (2026). Elevating the importance of Risk of Bias assessment for ecology and evolutionary biology. *Methods in Ecology and Evolution*.
+- Boyd RJ et al. (2022). ROBITT: A tool for assessing risk of bias in studies of temporal trends in ecology. *Methods in Ecology and Evolution* 13:1497–1507.
+- Collaboration for Environmental Evidence. *Guidelines and Standards for Evidence Synthesis in Environmental Management*.
+- Hurlbert SH (1984). Pseudoreplication and the design of ecological field experiments. *Ecological Monographs* 54:187–211.
+- Nakagawa S et al. (2017). Meta-evaluation of meta-analysis: ten appraisal questions for biologists. *BMC Biology* 15:18.
+
+</div>
+
+::: notes
+This slide can remain after the session. Add a QR code to workshop files or your preferred critical-appraisal resource once the hosting location is known.
+
+[Sources]
+- https://doi.org/10.1111/2041-210X.70356
+- https://doi.org/10.1111/2041-210X.13857
+- https://environmentalevidence.org/information-for-authors/
+- https://doi.org/10.2307/1942661
+- https://doi.org/10.1186/s12915-017-0357-7
+[/Sources]
+:::

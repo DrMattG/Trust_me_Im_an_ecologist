@@ -1,0 +1,139 @@
+---
+title: "Trust Me, I’m an Ecologist?"
+subtitle: "Participant exercise pack"
+author: "Matthew Grainger"
+format:
+  html:
+    toc: true
+    theme: cosmo
+  pdf:
+    documentclass: article
+    geometry: margin=20mm
+---
+
+# How to use this pack
+
+Work from the information provided. Record both your judgement and the evidence supporting it. “Not reported” is a legitimate answer: do not assume that an unreported safeguard was either present or absent.
+
+# Exercise 1: Which study do you trust?
+
+## Question
+
+Does restricting visitor access improve breeding success in ground-nesting birds?
+
+## Study A: One protected site over time
+
+A reserve introduced seasonal path closures in 2022. Researchers compared mean nesting success during three years before closure with three years afterwards. Visitor numbers declined, but fox control and vegetation management were also introduced in 2022. The same nesting areas were monitored throughout.
+
+## Study B: Two contemporary sites
+
+Researchers compared one reserve with seasonal closure against a nearby reserve with unrestricted access. Fifty nests were monitored in each reserve. The restricted reserve was larger, supported denser vegetation and had lower fox abundance.
+
+## Study C: Multiple matched sites
+
+Ten reserves introducing seasonal closure were matched to ten reserves retaining unrestricted access using pre-intervention nesting success, habitat and predator abundance. Outcomes were measured for two years before and two years after implementation. Closure was not randomly assigned, and visitor counts were incomplete at four reserves.
+
+## Study D: Randomised messages within one reserve
+
+Twenty access points were randomly assigned to receive either standard signs or prominent signs explaining the effects of disturbance. Visitor compliance and nest disturbance were recorded by observers unaware of the study hypothesis. Access points shared the same connected bird population.
+
+## Task
+
+1. Rank the studies for the particular claim each can support.
+2. Identify the most consequential limitation of each.
+3. Decide whether a larger sample would solve that limitation.
+4. State the target effect or inference you believe each study estimates.
+
+# Exercise 2: Luquillo rainforest
+
+## Initial evidence
+
+Lister and Garcia (2018) compared arthropod and insectivore observations collected in Puerto Rico’s Luquillo rainforest during the 1970s with later observations. They reported large declines in arthropod biomass and changes in insectivore abundance, and argued that rising temperature was the major driver restructuring the food web.
+
+## Appraisal task
+
+1. Separate the descriptive trend claim from the causal claim.
+2. Define the target population across space, time and taxonomy.
+3. What would have to remain comparable between historical and contemporary samples?
+4. Which disturbances or changing conditions might be alternative explanations?
+5. What is your provisional risk-of-bias judgement, and why?
+
+## Reveal: published response
+
+Willig et al. (2019) questioned whether sampling effort had been handled consistently, whether some combined data sources were comparable, and whether hurricanes and subsequent forest succession could explain parts of the observed pattern. They also pointed to additional monitoring series that did not show the same simple declines.
+
+Revise your judgement:
+
+- Which concerns did you anticipate?
+- Which new concern most changes your inference?
+- Does the response challenge evidence of change, its attribution to warming, its generality—or all three?
+- What evidence could discriminate between the competing explanations?
+
+## Final complication
+
+Lister and Garcia (2019) replied, defending their data choices and arguing that multiple datasets supported their interpretation. The response is therefore evidence to appraise, not an answer key.
+
+Write a conclusion containing:
+
+> The evidence suggests **[what]**, in **[which context]**. Our confidence is **[level]** because **[reason]**. The conclusion is most sensitive to **[limitation]**.
+
+# Exercise 3: Worldwide insect decline
+
+## Initial evidence
+
+Sánchez-Bayo and Wyckhuys (2019) reviewed reports of insect decline and discussed proposed drivers. Their conclusions were widely communicated as evidence about the global prevalence and severity of insect decline.
+
+## Appraisal task
+
+1. What question can a search focused on reports of “decline” answer?
+2. What denominator is required to estimate the proportion of populations or species declining?
+3. Could eligibility depend on the direction of the reported result?
+4. Which geographical, taxonomic and ecological domains are represented?
+5. Rewrite the broad conclusion so that it matches the sampled literature.
+
+## Reveal: published responses
+
+Subsequent responses agreed that insect decline is important but questioned whether the search and selection process could support global rates, whether the evidence was geographically and taxonomically representative, and whether causal statements about drivers were adequately supported.
+
+Discuss:
+
+- Can an entirely transparent review still be systematically biased for a particular inference?
+- Does criticism of the global estimate imply that insect declines are unimportant?
+- How should concern, uncertainty and evidence be communicated together?
+
+# Optional exercise: Historical bumblebee records
+
+Soroye et al. (2020) used historical occurrence data to estimate changes in bumblebee occurrence in Europe and North America and related these to climate conditions. Guzman et al. (2021) argued that features of the original framework could bias decline estimates and proposed an alternative analysis.
+
+Using ROBITT, consider:
+
+1. What is the statistical target population?
+2. How might recorder effort, accessibility and taxonomic attention change through time?
+3. What does absence from an opportunistic record dataset mean?
+4. How should changes in geographic coverage be assessed?
+5. Which assumptions connect changes in records to changes in occurrence?
+
+# Introductory risk-of-bias questions
+
+Adapted from Culina et al. (2026):
+
+1. Was randomisation applied where relevant?
+2. Was selection bias avoided?
+3. Was confounding considered?
+4. Were outcomes obtained or measured comparably?
+5. Were observers or analysts blinded where feasible and consequential?
+
+Do not sum the answers into a score. Explain the bias mechanism, which result it could affect, its plausible direction where knowable, and how it changes the conclusion.
+
+# References
+
+- Boyd RJ et al. 2022. ROBITT. *Methods in Ecology and Evolution* 13:1497–1507. https://doi.org/10.1111/2041-210X.13857
+- Culina A et al. 2026. Elevating the importance of Risk of Bias assessment for ecology and evolutionary biology. *Methods in Ecology and Evolution*. https://doi.org/10.1111/2041-210X.70356
+- Guzman LM et al. 2021. Using historical data to estimate bumble bee occurrence. *Biological Conservation* 257:109180. https://doi.org/10.1016/j.biocon.2021.109180
+- Lister BC, Garcia A. 2018. Climate-driven declines in arthropod abundance restructure a rainforest food web. *PNAS* 115:E10397–E10406. https://doi.org/10.1073/pnas.1722477115
+- Lister BC, Garcia A. 2019. Reply to Willig et al. *PNAS* 116:12145–12146. https://doi.org/10.1073/pnas.1904582116
+- Montgomery GA et al. 2020. Is the insect apocalypse upon us? *Biological Conservation* 241:108327. https://doi.org/10.1016/j.biocon.2019.108327
+- Sánchez-Bayo F, Wyckhuys KAG. 2019. Worldwide decline of the entomofauna. *Biological Conservation* 232:8–27. https://doi.org/10.1016/j.biocon.2019.01.020
+- Simmons BI et al. 2019. Worldwide insect declines: An important message, but interpret with caution. *Ecology and Evolution* 9:3678–3680. https://doi.org/10.1002/ece3.5153
+- Soroye P, Newbold T, Kerr J. 2020. Climate change contributes to widespread declines among bumble bees across continents. *Science* 367:685–688. https://doi.org/10.1126/science.aax8591
+- Willig MR et al. 2019. Populations are not declining and food webs are not collapsing at the Luquillo Experimental Forest. *PNAS* 116:12143–12144. https://doi.org/10.1073/pnas.1820456116
