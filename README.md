@@ -16,3 +16,8 @@ Render the participant exercise pack with:
 quarto render exercise-pack.qmd
 ```
 
+## Licence
+
+Workshop text and original teaching materials are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Third-party materials retain their original licences.

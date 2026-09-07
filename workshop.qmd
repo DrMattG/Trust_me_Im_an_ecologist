@@ -1093,3 +1093,11 @@ This slide can remain after the session. Add a QR code to workshop files or your
 - https://doi.org/10.1186/s12915-017-0357-7
 [/Sources]
 :::
+
+## Reuse these materials
+
+Except where otherwise indicated, these workshop materials are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Suggested citation:** Grainger, M. (2026). *Trust Me, I'm an Ecologist?
+Learning to Better Judge Evidence*. Workshop materials.
