@@ -101,7 +101,7 @@ Sánchez-Bayo and Wyckhuys (2019) reviewed reports of insect decline and discuss
 
 ## Appraisal task
 
-1. What question can a search focused on reports of “decline” answer?
+1. What question can their search answer?
 2. What denominator is required to estimate the proportion of populations or species declining?
 3. Could eligibility depend on the direction of the reported result?
 4. Which geographical, taxonomic and ecological domains are represented?

@@ -757,7 +757,7 @@ Timing: 5 minutes.
 
 ---
 
-## Optional advanced case · Historical bumblebee records
+## Exercise 4 - Historical bumblebee records
 
 Soroye et al. used historical occurrence data to estimate bumblebee change across Europe and North America. Guzman et al. subsequently argued that the framework could yield biased estimates and proposed an alternative.
 
@@ -1099,5 +1099,9 @@ This slide can remain after the session. Add a QR code to workshop files or your
 Except where otherwise indicated, these workshop materials are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+
+You can find it here: [{{< fa brands github size=2xl >}}](https://github.com/DrMattG/Trust_me_Im_an_ecologist)
+
+
 **Suggested citation:** Grainger, M. (2026). *Trust Me, I'm an Ecologist?
-Learning to Better Judge Evidence*. Workshop materials.
+Learning to Better Judge Evidence*. Workshop materials.https://github.com/DrMattG/Trust_me_Im_an_ecologist
