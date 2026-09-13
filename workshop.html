@@ -6,10 +6,10 @@
 <script src="workshop_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="workshop_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="workshop_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="workshop_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="workshop_files/libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <link href="workshop_files/libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
 <link href="workshop_files/libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.9.38">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Matthew Grainger">
   <title>Trust Me, I’m an Ecologist?</title>
@@ -22,10 +22,13 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -140,7 +143,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Matthew Grainger 
+Matthew Grainger
 </div>
         <p class="quarto-title-affiliation">
             Norwegian Institute for Nature Research (NINA)
@@ -227,7 +230,7 @@ Uncertain</p>
 Not confident</p>
 </div></div>
 <aside class="notes">
-<p>Ask for a show of hands or use coloured voting cards. Record the rough distribution, but do not discuss the study yet. Say: “Keep hold of that judgement—we will return to it.”</p>
+<p>Ask for a show of hands. Record the rough distribution, but do not discuss the study yet. Say: “Keep hold of that judgement—we will return to it.”</p>
 <p>Timing: 5 minutes.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -573,7 +576,7 @@ Risk of bias is central to inference—but remains peripheral in ecological prac
 </ol>
 <p><strong>You have 12 minutes. Be ready to defend—not merely report—your ranking.</strong></p>
 <aside class="notes">
-<p>Distribute Exercise 1 cards. Use groups of about five. Ask each group to choose a reporter.</p>
+<p>Use groups of about five. Ask each group to choose a reporter.</p>
 <p>Timing: 12 minutes activity + 8 minutes debrief.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -703,7 +706,9 @@ Twenty quadrats are sampled in each field.</p>
 The analysis must respect how variation entered the study.
 </div>
 <aside class="notes">
-<p>This is a conceptual slide, not a technical mixed-model lesson. Mention clustering and repeated measurements only briefly.</p>
+<p>Exchangeable “Units that, before treatment or exposure, could reasonably have occupied either side of the comparison.”</p>
+<p>Count replication at the level where the treatment, exposure or ecological condition varies—not automatically at the level where measurements were taken.</p>
+<p>The important question is: what could genuinely have been different? If the treatment was applied to fields, then fields are the units we need to compare. Measuring twenty quadrats within each field gives us a better description of those fields, but it does not create twenty independent examples of grazing and twenty independent examples of no grazing. The design tells us which units can legitimately stand in for one another in the comparison.</p>
 <p>Timing: 4 minutes.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -874,6 +879,7 @@ Time can become confounded with the way observations entered the dataset.
 </div>
 <aside class="notes">
 <p>Prevent the session becoming a simplistic hierarchy of evidence. Ecological inference often depends on triangulation.</p>
+<p>A useful older framework is Bradford Hill’s considerations for causal inference: temporality, strength, consistency, dose–response patterns, plausibility, coherence, experiment, specificity and analogy. These are prompts for reasoning across evidence, not a checklist that proves causation. Several can arise even when studies share the same bias.</p>
 <p>Timing: 4 minutes.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {

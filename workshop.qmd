@@ -96,7 +96,7 @@ Not confident
 :::
 
 ::: notes
-Ask for a show of hands or use coloured voting cards. Record the rough distribution, but do not discuss the study yet. Say: “Keep hold of that judgement—we will return to it.”
+Ask for a show of hands. Record the rough distribution, but do not discuss the study yet. Say: “Keep hold of that judgement—we will return to it.”
 
 Timing: 5 minutes.
 :::
@@ -366,7 +366,7 @@ For each study:
 **You have 12 minutes. Be ready to defend—not merely report—your ranking.**
 
 ::: notes
-Distribute Exercise 1 cards. Use groups of about five. Ask each group to choose a reporter.
+Use groups of about five. Ask each group to choose a reporter.
 
 Timing: 12 minutes activity + 8 minutes debrief.
 :::
@@ -474,7 +474,11 @@ Quadrats, samples, observations, pixels—or repeated visits?
 <div class="bottom-line">The analysis must respect how variation entered the study.</div>
 
 ::: notes
-This is a conceptual slide, not a technical mixed-model lesson. Mention clustering and repeated measurements only briefly.
+Exchangeable "Units that, before treatment or exposure, could reasonably have occupied either side of the comparison."
+
+Count replication at the level where the treatment, exposure or ecological condition varies—not automatically at the level where measurements were taken.
+
+The important question is: what could genuinely have been different? If the treatment was applied to fields, then fields are the units we need to compare. Measuring twenty quadrats within each field gives us a better description of those fields, but it does not create twenty independent examples of grazing and twenty independent examples of no grazing. The design tells us which units can legitimately stand in for one another in the comparison.
 
 Timing: 4 minutes.
 :::
@@ -617,6 +621,8 @@ The question is not “experiment or useless?” It is “which explanations rem
 
 ::: notes
 Prevent the session becoming a simplistic hierarchy of evidence. Ecological inference often depends on triangulation.
+
+A useful older framework is Bradford Hill’s considerations for causal inference: temporality, strength, consistency, dose–response patterns, plausibility, coherence, experiment, specificity and analogy. These are prompts for reasoning across evidence, not a checklist that proves causation. Several can arise even when studies share the same bias.
 
 Timing: 4 minutes.
 :::
